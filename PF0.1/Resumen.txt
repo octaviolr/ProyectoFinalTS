@@ -1,0 +1,3 @@
+En esta primera versión se creó un menú con tres opciones: Galería, Información y Salir. 
+La opción de galería te lleva a la escena donde estarán los animales. La opción de información te da una breve explicación de en qué consiste este proyecto y la opción salir te saca del proyecto.  
+Adicionalmente se agregaron los modelos de los tres animales que se van a ocupar, hay un error con el modelo del oso, por lo tanto ese todavía no va a aparecer ya que tengo que corregirlo.  
