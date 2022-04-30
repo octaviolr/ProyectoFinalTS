@@ -1,0 +1,3 @@
+En esta segunda versión lo que se agrego fueron los modelos y las escenas para recrear los hábitats de cada animal, junto con información sobre el animal. 
+También se hizo un cambio en el modelo del oso, ya que el anterior estaba muy pesado y este nuevo que encontré me gusto más. 
+Queda por ambientar bien las escenas de los hábitats y darle una mejor presentación a la pantalla del menú y las ventanas de información.  
