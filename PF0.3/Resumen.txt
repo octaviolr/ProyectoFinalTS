@@ -1,0 +1,4 @@
+En esta tercera versión se agregaron los Skybox de cada hábitat, 
+a su vez se agregaron los botones para que se pueda intercambiar entre la información y el modelo del animal, 
+también se agregó otro botón para regresar de la escena del animal a la escena de la galería. 
+Por último, en la escena del oso, se agrego un video en 360° en el que se puede apreciar un oso en su hábitat natural e interactuando con su entorno. 
