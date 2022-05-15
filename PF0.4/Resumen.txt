@@ -1,0 +1,6 @@
+Para esta cuarto versión lo que se hizo fue agregar movimiento al modelo del conejo, 
+posteriormente se hará para el tigre y para el oso. Tuve que hacer un cambio en la idea que tenia de hacer animación de los modelos para representar 
+el movimiento del animal, me estaba tardando mucho en hacerlas y el tiempo ya no me da, 
+debido a que todavía quedan un par de detalles por arreglar y falta toda la cuestión de la documentación. 
+En su lugar decidí buscar un video de cada animal, y que de esa forma se pueda apreciar como y pueda llegar a remplazar la animación. A su vez, 
+a los modelos le voy a hacer un pequeño código que permita el desplazamiento de los mismos para que el usuario pueda apreciarlo un en distintos ángulos y posiciones. 
